@@ -1,0 +1,9 @@
+name: FirstPlugin
+main: com.first.mainListener
+author: Mifort
+version: 1.0.0
+commands:
+         first:
+              description: Наша первая команда
+              usage: <command>
+         stats:
